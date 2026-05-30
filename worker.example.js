@@ -21,9 +21,9 @@ const ADMIN_KEY = 'ADMIN_USERS';
 
 const authConfig = {
     "siteName": "SSBots", // Your Website name
-    "client_id": "614798365652-tlhfvmc24fdih6b4p9rsq90r56m1e23s.apps.googleusercontent.com", // Your Client id from Google Cloud Console
-    "client_secret": "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", // Your Client Secret from Google Cloud Console
-    "refresh_token": "1//0gBNQjHnILPRjCgYIARAAGBASNwF-L9IrWBkgQ8WhcE5_ir45y2FdvMcpw0bmL5WzMPjdroRD1FCuQ9t_s40YppObLer_tTogMgE", // Your Authorize token - Get from OAuth Playground
+    "client_id": "576175951684-4qqn21it7ajov80emtn6at4oku99d80e.apps.googleusercontent.com", // Your Client id from Google Cloud Console
+    "client_secret": "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", // Your Client Secret from Google Cloud Console
+    "refresh_token": "1//0gg_8Ox43AAthCgYIARAAGBASNwF-L9Irb05nr0Xqc_q5jtvHPNG1onqMteLpYScfdK4yIYXjKyzgwBCQUdoUeK1qCC-Hf9KNaBc", // Your Authorize token - Get from OAuth Playground
     "service_account": false, // true if you're using Service Account instead of user account
     "service_account_json": randomserviceaccount, // don't touch this one
     "files_list_page_size": 100,
@@ -62,7 +62,7 @@ const authConfig = {
     ],
     "roots": [
         {
-            "id": "140zNKNjt6gwHMM4CAzzWnIXlXux0Usgz", // Get from Google Drive folder URL
+            "id": "1WLOY8hXo2oHBDs8tbT1-khjo3J8nwiYC", // Get from Google Drive folder URL
             "name": "index",
             "username": "", "password": "", // Optional folder-level auth
             "protect_file_link": false
